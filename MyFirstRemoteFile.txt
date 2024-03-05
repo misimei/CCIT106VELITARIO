@@ -1,4 +1,80 @@
-<?xml version="1.0"?>
-  <ccs>
-    <dept>CCS DEPARTMENT</dept>
-  </ccs>
+<?xml version="1.0" encoding="utf-8"?>
+<university>
+	<student>
+		<id>C21102390</id>
+		<name>Velitario Missy</name>
+		<dob>2002-10-26</dob>
+		<age>21</age>
+		<course>Bachelor of Science in Information Technology</course>
+		<address>
+			<brgy>Santiago Old</brgy>
+			<city>Nabua</city>
+			<province>Camarines Sur</province>
+		</address>
+		<year>3</year>
+		<subjects>
+			<subject>Integrative Programming</subject>
+			<subject>Computer Programming</subject>
+			<subject>Mobile Technology</subject>
+			<subject>Application Development and Emerging Technologies</subject>
+			<subject>Ethical Hacking</subject>
+		</subjects>
+		<parent>
+			<father>Ronnie Velitario</father>
+			<mother>Maricel Velitario</mother>
+			<guardian>Lucenda Velitario</guardian>
+		</parent>
+	</student>
+		
+	<student>
+		<id>C21102385</id>
+		<name>Tominio Edison</name>
+		<dob>2002-07-10</dob>
+		<age>21</age>
+		<course>Bachelor of Science in Information Technology</course>
+		<address>
+			<brgy>San Miguel</brgy>
+			<city>Nabua</city>
+			<province>Camarines Sur</province>
+		</address>
+		<year>3</year>
+		<subjects>
+			<subject>Integrative Programming</subject>
+			<subject>Computer Programming</subject>
+			<subject>Mobile Technology</subject>
+			<subject>Application Development and Emerging Technologies</subject>
+			<subject>Ethical Hacking</subject>
+		</subjects>
+		<parent>
+			<father>Mr Tominio</father>
+			<mother>Mrs Tominio</mother>
+			<guardian>Mr Tominio</guardian>
+		</parent>
+	</student>
+	
+	<student>
+		<id>C21102325</id>
+		<name>Casia Christine Joy</name>
+		<dob>2003-03-07</dob>
+		<age>21</age>
+		<course>Bachelor of Science in Information Technology</course>
+		<address>
+			<brgy>Lourdes Young</brgy>
+			<city>Nabua</city>
+			<province>Camarines Sur</province>
+		</address>
+		<year>3</year>
+		<subjects>
+			<subject>Integrative Programming</subject>
+			<subject>Computer Programming</subject>
+			<subject>Mobile Technology</subject>
+			<subject>Application Development and Emerging Technologies</subject>
+			<subject>Ethical Hacking</subject>
+		</subjects>
+		<parent>
+			<father>Mr Casia</father>
+			<mother>Cynthia Casia</mother>
+			<guardian>Mr Casia</guardian>
+		</parent>
+	</student>
+</university>
